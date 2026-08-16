@@ -1,4 +1,7 @@
-this was a school project. not really anything important.
+A real-time, peer to peer multiplayer version of wordle. 
+No central game server, players connect directly to each other over WebRTC 
+and guess the same 5-letter word together, with game state kept in sync live.
+
 # Multiplayer Wordle
 
 a multiplayer version of wordle — no server required. 
